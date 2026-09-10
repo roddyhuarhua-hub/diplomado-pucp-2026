@@ -10,3 +10,8 @@ this is a report for the python course in PUCP
 2. spiderman
 3. rey leon
 4. volver al futuro
+
+# Actors
+1. Julia Roberts
+2. Sandra Bulock
+3. Angelina July
